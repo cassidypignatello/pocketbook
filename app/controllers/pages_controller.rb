@@ -1,6 +1,4 @@
 class PagesController < ApplicationController
-
-  def signup
-    
+  def about
   end
 end
